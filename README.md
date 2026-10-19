@@ -50,7 +50,7 @@ Os indicadores analisados são:
 
 **Objetivo de negócio:** identificar tendências, sazonalidade e alterações no volume de vendas e no faturamento, apoiando o planejamento comercial e a avaliação de desempenho.
 
-## 2. Indicadores e filtros
+## 2. Análise, Indicadores e filtros
 
 ### KPIs
 
