@@ -8,7 +8,7 @@ O projeto utiliza HTML, CSS e JavaScript, com uma interface inspirada na linguag
 
 **Acesse a dashboard online:**
 
-[https://monikerajava.github.io/dashboard_porsche_sales/porsche_sales_intelligence_v2.html](https://monikerajava.github.io/dashboard_porsche_sales/porsche_sales_intelligence_v2.html)
+[https://monikerajava.github.io/dashboard_porsche_sales/](https://monikerajava.github.io/dashboard_porsche_sales/)
 
 ## 1. Perguntas de negócio escolhidas
 
@@ -188,7 +188,7 @@ O projeto está associado ao repositório público `dashboard_porsche_sales`
 
 A dashboard publicada pode ser acessada pelo endereço:
 
-[https://monikerajava.github.io/dashboard_porsche_sales/porsche_sales_intelligence_v2.html](https://monikerajava.github.io/dashboard_porsche_sales/porsche_sales_intelligence_v2.html)
+[https://monikerajava.github.io/dashboard_porsche_sales/](https://monikerajava.github.io/dashboard_porsche_sales/)
 
 ## 8. Conclusão
 
